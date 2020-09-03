@@ -26,7 +26,7 @@ title: Lark
 description: >- # this means to ignore newlines until "baseurl:"
   Hello! Welcome to my Blog..All thoughts and opinions are my own.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.dmellonielet.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 theme: minima
